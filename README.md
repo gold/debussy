@@ -24,7 +24,7 @@ Usage
 const Debussy = require('debussy');
 const FileReader = new Debussy('/path/to/file');
 
-FileReader.on('line', (line) => {
+FileReader.on('line', line => {
   process line...
 });
 
