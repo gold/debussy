@@ -47,11 +47,13 @@ time I needed to parse a file.
 Module Name: An Explanation
 ---------------------------
 
-Why `debussy`? After researching similar npm modules, I discovered I really
-didn't have to write this at all and I could be using someone else's npm package
-instead. But that's no fun. And naming the module to indicate its functionality
-would have thrown my version into a sea of names like file-reader, line-read,
-read-line, stream-line-reader, line-reader-stream, read-by-line,
+Why `debussy`?
+
+After researching similar npm modules, I discovered I really didn't have to
+write this at all and I could be using someone else's npm package instead. But
+that's no fun. And giving the module a name which represented its functionality
+would have lost my version in a sea of names like file-reader, line-read,
+file-line-read, stream-line-reader, line-reader-stream, read-by-line,
 reader-line-stuff, etc.
 
 I therefore paid homage to one of the greatest composers.

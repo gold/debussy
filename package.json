@@ -1,6 +1,6 @@
 {
   "name": "debussy",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "simple, fast, and efficient file reader, line by line",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/gold/debussy.git"
+    "url": "https://github.com/gold/debussy.git"
   },
   "keywords": [
     "La Mer",
     "Reflets dans l'eau",
     "file",
+    "read file",
+    "file reader",
+    "line-by-line",
+    "read line",
     "line",
+    "stream reader",
     "reader",
     "stream"
   ],
