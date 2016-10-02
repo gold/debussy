@@ -1,6 +1,6 @@
 {
   "name": "debussy",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "simple, fast, and efficient file reader, line by line",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/gold/debussy/issues"
   },
-  "homepage": "https://github.com/gold/debussy#readme"
+  "homepage": "https://github.com/gold/debussy#readme",
+  "devDependencies": {
+    "eslint": "^3.6.0"
+  }
 }
